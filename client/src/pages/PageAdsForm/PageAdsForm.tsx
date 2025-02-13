@@ -1,3 +1,5 @@
+import React from 'react';
+
 const PageAdsForm = () => {
   return <h2>Форма объявлений</h2>;
 };
